@@ -1,0 +1,9 @@
+# Configuration file
+api_key: "DUMMY_API_KEY_FOR_TESTING_123"
+test_token: "dummy_token_12345"
+
+# App configuration
+app:
+  environment: "development"
+  debug: true
+  port: 8080
